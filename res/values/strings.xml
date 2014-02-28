@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tappy Free</string>
+    <string name="settings">Settings</string>
+    <string name="more_apps">More Apps</string>
+    <string name="accessibility">Accessibility</string>
+    <string name="vibration">Vibration</string>
+    <string name="undo">Undo</string>
+    <string name="reset">Reset</string>
+    <string name="counter">0</string>
+</resources>
