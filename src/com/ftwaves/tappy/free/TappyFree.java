@@ -43,6 +43,7 @@ public class TappyFree extends Activity {
 
         vibrator = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
 
+        // TOFIX: counter => counter_button?
         counter = (Button) findViewById(R.id.counter);
 
         counter.setOnLongClickListener(new View.OnLongClickListener() {
