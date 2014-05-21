@@ -1,4 +1,4 @@
-# Tappy - Just Tap it
+# Tappy - Just tap it
 
 https://play.google.com/store/apps/details?id=com.ftwaves.tappy.free
 
