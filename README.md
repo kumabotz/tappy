@@ -1,4 +1,5 @@
-# Tappy - Just tap it
+# Tappy - A Simple Tally Counter
+
 https://play.google.com/store/apps/details?id=com.ftwaves.tappy.free
 
 ![](https://cloud.githubusercontent.com/assets/2450760/4715817/3ab37ea2-5902-11e4-8ba3-4b2bf80bd955.png)
